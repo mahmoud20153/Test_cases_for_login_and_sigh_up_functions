@@ -1,5 +1,7 @@
 Software Testing Project
+
 Overview
+
 This project demonstrates a comprehensive Software Testing System for a user management application, implemented in C. It includes functionalities for:
 
 User Sign-Up: Validating and storing user information.
@@ -39,20 +41,24 @@ Project
         API_Documentation.md # Detailed API docs (optional)
         
 How to Run the Project
+
 Clone the Repository:
 git clone https://github.com/YourUsername/YourProjectName.git
 cd YourProjectName
+
 Build the Project:
+
 If using a Makefile:
 make
 Otherwise, compile manually:
+
 gcc -o project main.c sign_up.c login.c -lcunit
-Run the Project:
-./project
+Run the Project: ./project
 Run Tests:
 ./tests
 
 Getting Started
+
 Prerequisites:
 C compiler (e.g., GCC)
 CUnit library installed on your system.

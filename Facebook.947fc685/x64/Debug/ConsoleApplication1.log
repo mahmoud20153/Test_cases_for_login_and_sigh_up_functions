@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\omar saleh\source\repos\ConsoleApplication1\main.c(128,59): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_InitializeFunc'
+C:\Users\omar saleh\source\repos\ConsoleApplication1\main.c(128,71): warning C4113: 'int (__cdecl *)()' differs in parameter lists from 'CU_CleanupFunc'
+C:\Users\omar saleh\source\repos\ConsoleApplication1\main.c(136,41): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'CU_TestFunc'
+C:\Users\omar saleh\source\repos\ConsoleApplication1\main.c(143,39): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'CU_TestFunc'
+  ConsoleApplication1.vcxproj -> C:\Users\omar saleh\source\repos\ConsoleApplication1\x64\Debug\Facebook_sign_up_test.exe
